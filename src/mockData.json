@@ -1,0 +1,30 @@
+[
+  {
+    "name": "chinedu",
+    "amount": {
+      "January": 120,
+      "Febuary": 890,
+      "March": 2045
+    }
+  },
+  {
+    "name": "maidha",
+    "amount": { "January": 6894, "Febuary": 3560, "March": 2245 }
+  },
+  {
+    "name": "jason",
+    "amount": { "January": 654, "Febuary": 5560, "March": 120 }
+  },
+  {
+    "name": "Garry",
+    "amount": { "January": 654, "Febuary": 5560, "March": 120 }
+  },
+  {
+    "name": "Masonn",
+    "amount": { "January": 654, "Febuary": 5560, "March": 120 }
+  },
+  {
+    "name": "bury",
+    "amount": { "January": 654, "Febuary": 5560, "March": 120 }
+  }
+]
